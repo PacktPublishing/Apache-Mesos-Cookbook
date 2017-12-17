@@ -28,6 +28,4 @@ $ sudo systemctl disable mesos-slave
 
 * [Apache Spark Fundamentals [video]](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-fundamentals-video?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781787283862)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions. 
 
